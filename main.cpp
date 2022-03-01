@@ -1,10 +1,3 @@
-/* Lab 2
- * Rock, Paper, Scissors Game 
- * Jose Mendez
- * 09/5/20
-*/
-
-
 #include <ctime>
 #include <iostream>
 using namespace std;
